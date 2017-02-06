@@ -6,3 +6,9 @@ This is the theme I'm using for my Humhub community. Its pretty purple with grai
 
 The default banner in spaces ends up being huge for some reason. I'll invistigate it at a later time as I can manage this simpley by replacing the banner in the space myself. 
 
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/Screenshot_20170206-160128.png?raw=true" alt="Smiley face" width="auto" height="300">
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/Screenshot_20170206-160200%20(2).png?raw=true" alt="Smiley face" width="auto" height="300">
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/Screenshot_20170206-160207.png?raw=true" alt="Smiley face" width="auto" height="300">
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/purpletheme1.JPG?raw=true" alt="Smiley face" width="auto" height="300">
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/purpletheme2.JPG?raw=true" alt="Smiley face" width="auto" height="300">
+<img src="https://github.com/jeremiahtenbrink/HumhubPurpleTheme/blob/master/Screenshots/purplethemeadmin.JPG?raw=true" alt="Smiley face" width="auto" height="300">
