@@ -1,11 +1,8 @@
 <?php
-
 use yii\helpers\Html;
 use humhub\assets\AppAsset;
-
 /* @var $this \yii\web\View */
 /* @var $content string */
-
 AppAsset::register($this);
 ?>
 <?php $this->beginPage() ?>
@@ -24,7 +21,8 @@ AppAsset::register($this);
         <?php $this->beginBody() ?>
         <?= $content; ?>
         <?php $this->endBody() ?>
-        
+
+        <div class="text text-center powered">Powered by <a href="http://www.humhub.org" target="_blank">HumHub</a></div>
     </body>
 
 </html>
