@@ -25,9 +25,6 @@ AppAsset::register($this);
         <?= $content; ?>
         <?php $this->endBody() ?>
         
-        <div class="text text-center"><a href="https://community.futayuriverse.com/p/Terms" target="_blank"> Terms & Conditions</a></div>
-        <div class="text text-center"><a href="https://community.futayuriverse.com/p/Cookies" target="_blank"> Privacy Policy</a></div>
-        <div class="text text-center"><a href="https://community.futayuriverse.com/p/Cookies" target="_blank"> Cookies Policy</a></div>
     </body>
 
 </html>
