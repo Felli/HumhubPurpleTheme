@@ -24,10 +24,7 @@ AppAsset::register($this);
         <?php $this->beginBody() ?>
         <?= $content; ?>
         <?php $this->endBody() ?>
-        
-        <div class="text text-center powered">FYV<a href="https://community.futayuriverse.com/p/Terms" target="_blank"> Terms & Conditions</a></div>
-        <div class="text text-center">FYV<a href="https://community.futayuriverse.com/p/Cookies" target="_blank"> Privacy Policy</a></div>
-        <div class="text text-center">FYV<a href="https://community.futayuriverse.com/p/Cookies" target="_blank"> Cookies Policy</a></div>
+
         <div class="text text-center powered">Powered by <a href="http://www.humhub.org" target="_blank">HumHub</a></div>
     </body>
 
